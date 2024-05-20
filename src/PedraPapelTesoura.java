@@ -36,13 +36,6 @@ public class PedraPapelTesoura {
 
         }
 
-
-
-    }
-
-    private static void testar(){
-        System.out.println("Olá mundo!!");
-
     }
 
     private static  String definirNomeEscolha(int opcao){
